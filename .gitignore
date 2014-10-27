@@ -1,5 +1,7 @@
-## Java
+desktop/
+html/
 
+## Java
 *.class
 *.war
 *.ear
