@@ -1,0 +1,25 @@
+wskin.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button-disabled.9
+  rotate: false
+  xy: 110, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+button-down.9
+  rotate: false
+  xy: 56, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+button.9
+  rotate: false
+  xy: 2, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

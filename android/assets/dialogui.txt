@@ -1,0 +1,53 @@
+dialogui.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_dialog
+  rotate: false
+  xy: 2, 2
+  size: 481, 801
+  orig: 481, 801
+  offset: 0, 0
+  index: -1
+btn_menu
+  rotate: false
+  xy: 166, 1051
+  size: 309, 80
+  orig: 309, 80
+  offset: 0, 0
+  index: -1
+btn_menu_t
+  rotate: false
+  xy: 166, 969
+  size: 309, 80
+  orig: 309, 80
+  offset: 0, 0
+  index: -1
+btn_resume
+  rotate: false
+  xy: 166, 887
+  size: 309, 80
+  orig: 309, 80
+  offset: 0, 0
+  index: -1
+btn_resume_t
+  rotate: false
+  xy: 166, 805
+  size: 309, 80
+  orig: 309, 80
+  offset: 0, 0
+  index: -1
+btn_skip
+  rotate: true
+  xy: 84, 805
+  size: 309, 80
+  orig: 309, 80
+  offset: 0, 0
+  index: -1
+btn_skip_t
+  rotate: true
+  xy: 2, 805
+  size: 309, 80
+  orig: 309, 80
+  offset: 0, 0
+  index: -1

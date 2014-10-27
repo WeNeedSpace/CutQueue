@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CutQueue</string>
+    <string name="app_id">482984188498965</string>
+    <string name="google_app_id">658281745088</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_quit">QUIT</string>
+
+</resources>

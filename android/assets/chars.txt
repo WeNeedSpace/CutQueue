@@ -1,0 +1,88 @@
+chars.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boy
+  rotate: false
+  xy: 155, 252
+  size: 93, 252
+  orig: 129, 256
+  offset: 18, 2
+  index: -1
+boy2
+  rotate: false
+  xy: 151, 506
+  size: 97, 248
+  orig: 129, 256
+  offset: 17, 2
+  index: -1
+boy2_fall
+  rotate: false
+  xy: 2, 428
+  size: 147, 200
+  orig: 157, 256
+  offset: 2, 27
+  index: -1
+boy_fall
+  rotate: false
+  xy: 2, 888
+  size: 143, 192
+  orig: 157, 256
+  offset: 5, 30
+  index: -1
+girl
+  rotate: false
+  xy: 157, 2
+  size: 91, 248
+  orig: 129, 256
+  offset: 16, 3
+  index: -1
+girl2
+  rotate: false
+  xy: 149, 756
+  size: 91, 234
+  orig: 129, 256
+  offset: 19, 2
+  index: -1
+girl2_fall
+  rotate: false
+  xy: 2, 1082
+  size: 141, 194
+  orig: 157, 256
+  offset: 7, 27
+  index: -1
+girl_fall
+  rotate: false
+  xy: 2, 2
+  size: 153, 212
+  orig: 157, 256
+  offset: 3, 22
+  index: -1
+granny
+  rotate: false
+  xy: 2, 1278
+  size: 111, 254
+  orig: 129, 256
+  offset: 6, 2
+  index: -1
+granny_fall
+  rotate: false
+  xy: 2, 216
+  size: 151, 210
+  orig: 157, 256
+  offset: 2, 24
+  index: -1
+granny_front
+  rotate: false
+  xy: 2, 630
+  size: 145, 256
+  orig: 157, 256
+  offset: 6, 0
+  index: -1
+granny_lose
+  rotate: false
+  xy: 115, 1278
+  size: 133, 194
+  orig: 157, 256
+  offset: 22, 0
+  index: -1

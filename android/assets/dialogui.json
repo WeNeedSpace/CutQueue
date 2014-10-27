@@ -1,0 +1,35 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: { 
+	titletext: { file: chewy_tryagain.fnt },
+},
+com.badlogic.gdx.graphics.Color: {
+	red: { a: 1, b: 0, g: 0, r: 1 }, 
+      green: { a: 1, b: 0, g: 1, r: 0 },  
+      blue: { a: 1, b: 1, g: 0, r: 0 },  
+      white: { a: 1, b: 1, g: 1, r: 1 },  
+      black: { a: 1, b: 0, g: 0, r: 0 } 
+},
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	dialogDim: { name: bg_dialog, color: { r: 0, g: 0, b: 0, a: 0.45 } }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	menu: { up: btn_menu, down: btn_menu_t, checked: btn_menu, disabled: btn_menu },  
+	skip: { up: btn_skip, down: btn_skip_t, checked: btn_skip, disabled: btn_skip },
+	resume: { up: btn_resume, down: btn_resume_t, checked: btn_resume, disabled: btn_resume },
+	
+      transparent: { },
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {background: bg_dialog, titleFont: titletext, titleFontColor: red  },
+	dialog: { titleFont: titletext, background: bg_dialog , titleFontColor: red, stageBackground: dialogDim }
+
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {    
+    title-text: { font: titletext, fontColor: red },
+    normal-text:{ font: titletext, fontColor: black }, 
+
+}
+}
+
